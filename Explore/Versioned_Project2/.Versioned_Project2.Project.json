@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "am02944ULIhb0FZq9zkMSW",
+    "name" : "Versioned_Project2",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-07-21T17:18:02.365Z",
+  "objectRefs" : [ ]
+}
